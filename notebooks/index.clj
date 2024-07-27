@@ -3,6 +3,10 @@
 
 ;; The implementation is inspired by the [Parens for Pyplot](https://gigasquidsoftware.com/blog/2020/01/18/parens-for-pyplot/) tutorial by Carin Meier from Jan 2020.
 
+;; **Source:** [![(GitHub repo)](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scicloj/kind-pyplot)
+
+;; **Artifact:** [![Clojars Project](https://img.shields.io/clojars/v/org.scicloj/kind-pyplot.svg)](https://clojars.org/org.scicloj/kind-pyplot)
+                                        ;
 ;; ## Setup
 
 (ns index
