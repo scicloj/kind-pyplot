@@ -1,5 +1,5 @@
 
-;; Kind-pyplot is a small Clojure library for visualizing Python plots. It uses the [Kindly](https://scicloj.github.io/kindly/) convention, thus works in Kindly-compatible tools such as [Clay](https://scicloj.github.io/clay/).
+;; Kind-pyplot is a small Clojure library for displaying Python plots. It uses the [Kindly](https://scicloj.github.io/kindly/) convention, thus works in Kindly-compatible tools such as [Clay](https://scicloj.github.io/clay/).
 
 ;; The implementation is inspired by the [Parens for Pyplot](https://gigasquidsoftware.com/blog/2020/01/18/parens-for-pyplot/) tutorial by Carin Meier from Jan 2020.
 
