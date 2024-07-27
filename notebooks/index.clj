@@ -9,8 +9,8 @@
 
 ;; ## Discussion
 
-* [Issues](https://github.com/scicloj/kind-pyplot/issues) at [the repo](https://github.com/scicloj/kind-pyplot)
-* [#data-science](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science) > [python plotting](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/python.20plotting) at the [Clojurians Zulip chat](https://scicloj.github.io/docs/community/chat/)
+;; * [Issues](https://github.com/scicloj/kind-pyplot/issues) at [the repo](https://github.com/scicloj/kind-pyplot)
+;; * [#data-science](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science) > [python plotting](https://clojurians.zulipchat.com/#narrow/stream/151924-data-science/topic/python.20plotting) at the [Clojurians Zulip chat](https://scicloj.github.io/docs/community/chat/)
 
 ;; ## Setup
 
