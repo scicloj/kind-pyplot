@@ -6,6 +6,8 @@ The implementation is inspired by the [Parens for Pyplot](https://gigasquidsoftw
 
 Status: to be released as beta soon.
 
+[Documentation](https://scicloj.github.io/kind-pyplot/)
+
 ## License
 
 Copyright © 2024 Scicloj
