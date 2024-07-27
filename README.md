@@ -4,7 +4,7 @@ This small Clojure library allows visualizing Python plots in current Clojure to
 
 The implementation is inspired by the [Parens for Pyplot](https://gigasquidsoftware.com/blog/2020/01/18/parens-for-pyplot/) tutorial by Carin Meier from Jan 2020.
 
-Status: to be released as beta soon.
+[![Clojars Project](https://img.shields.io/clojars/v/org.scicloj/kind-pyplot.svg)](https://clojars.org/org.scicloj/kind-pyplot)
 
 [Documentation](https://scicloj.github.io/kind-pyplot/)
 
