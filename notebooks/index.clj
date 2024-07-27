@@ -12,6 +12,9 @@
 (ns index
   (:require [scicloj.kind-pyplot.v1.api :as pyplot]))
 
+;; Custom styling for SVG plots:
+^:kind/hiccup
+[:style "svg {max-width: 100%}"]
 
 ;; ## API
 
@@ -68,6 +71,7 @@
                  :hue "smoker"
                  :style "smoker"
                  :size "size")))
+
 
 (let [dots (sns/load_dataset "dots")]
   (pyplot/pyplot
