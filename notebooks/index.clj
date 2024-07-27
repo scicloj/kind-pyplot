@@ -67,16 +67,3 @@
                  :hue "smoker"
                  :style "smoker"
                  :size "size")))
-
-
-(let [dots (sns/load_dataset "dots")]
-  (pyplot/pyplot
-   #(sns/relplot :data dots
-                 :kind "line"
-                 :x "time"
-                 :y "firing_rate"
-                 :col "align"
-                 :hue "choice"
-                 :size "coherence"
-                 :style "choice"
-                 :facet_kws {:sharex false})))
