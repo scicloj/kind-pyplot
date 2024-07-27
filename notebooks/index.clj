@@ -12,10 +12,6 @@
 (ns index
   (:require [scicloj.kind-pyplot.v1.api :as pyplot]))
 
-;; Custom styling for SVG plots:
-^:kind/hiccup
-[:style "svg {max-width: 100%}"]
-
 ;; ## API
 
 ;; The `with-pyplot` macro takes Clojure forms that create a plot.
