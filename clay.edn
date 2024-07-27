@@ -1,0 +1,4 @@
+{:remote-repo {:git-url "https://github.com/scicloj/kind-pyplot"
+               :branch "main"}
+ :base-target-path "temp"
+ :title "Kind-pyplot: Displaying Python plots with the Clojure Kindly convention"}
