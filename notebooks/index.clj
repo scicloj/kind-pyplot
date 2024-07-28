@@ -72,3 +72,11 @@
                  :hue "smoker"
                  :style "smoker"
                  :size "size")))
+
+(let [penguins (sns/load_dataset "penguins")]
+  (sns/set_theme)
+  (pyplot/pyplot
+   #(sns/jointplot :data penguins
+                   :x "flipper_length_mm"
+                   :y "bill_length_mm"
+                   :hue "species")))
