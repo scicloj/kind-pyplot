@@ -21,7 +21,7 @@
          path# (.getAbsolutePath
                 (java.io.File/createTempFile "plot-" ".svg"))]
      ~(cons 'do forms)
-     (py. agg-canvas# "draw")
+     (libpython-clj2.python/py. agg-canvas# "draw")
      (matplotlib.pyplot/savefig path#)
      ;; Take the SVG file path and turn it into
      ;; a Clojure value that can be displayed in Kindly-compatible tools.
